@@ -7,4 +7,4 @@
 - [Nano100B](https://github.com/OpenNuvoton/Nano100B_BSP)
 - [Nano103](https://github.com/OpenNuvoton/Nano103BSP)
 - [Nano112](https://github.com/OpenNuvoton/Nano102_112BSP)
-- [M051](https:://github.com/OpenNuvoton/M051BSP)
+- [M051](https://github.com/OpenNuvoton/M051BSP)
