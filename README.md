@@ -13,6 +13,7 @@
 - [M058S](https://github.com/OpenNuvoton/M058S)
 - [NUC029xAN](https://github.com/OpenNuvoton/NUC029xANBSP)
 - [NUC100/120](https://github.com/OpenNuvoton/NUC100BSP)
+- [NUC121](https://github.com/OpenNuvoton/NUC121BSP)
 - [NUC122](https://github.com/OpenNuvoton/NUC122BSP)
 - [NUC123](https://github.com/OpenNuvoton/NUC123BSP)
 - [NUC126](https://github.com/OpenNuvoton/NUC126BSP)
