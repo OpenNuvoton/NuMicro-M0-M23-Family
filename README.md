@@ -2,6 +2,7 @@
 -------------
 - [Mini51](https://github.com/OpenNuvoton/Mini51BSP)
 - [Mini55](https://github.com/OpenNuvoton/Mini55BSP)
+- [Mini57](https://github.com/OpenNuvoton/Mini57BSP)
 - [Mini58](https://github.com/OpenNuvoton/Mini58BSP)
 - [Nano100A](https://github.com/OpenNuvoton/Nano100A_BSP)
 - [Nano100B](https://github.com/OpenNuvoton/Nano100B_BSP)
