@@ -24,5 +24,6 @@
 - [NUC126](https://github.com/OpenNuvoton/NUC126BSP)
 - [NUC131](https://github.com/OpenNuvoton/NUC131BSP)
 - [NUC200/220](https://github.com/OpenNuvoton/NUC200_220BSP)
+- [NUC2201](https://github.com/OpenNuvoton/NUC2201BSP)
 - [NUC230/240](https://github.com/OpenNuvoton/NUC230_240BSP)
 - [ISP Tool](https://github.com/OpenNuvoton/ISPTool)
