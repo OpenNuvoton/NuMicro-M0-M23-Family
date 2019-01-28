@@ -48,6 +48,7 @@
   </tr>
   <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC126BSP" style="display:block;">&nbsp;NUC126</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC1261BSP" style="display:block;">&nbsp;NUC1261</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC131BSP" style="display:block;">&nbsp;NUC131</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC200_220BSP" style="display:block;">&nbsp;NUC200/NUC220</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC2201BSP" style="display:block;">&nbsp;NUC2201</a></td>
