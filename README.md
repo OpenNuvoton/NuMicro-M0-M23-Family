@@ -62,8 +62,8 @@
   </tr>
    <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M2351BSP" style="display:block;">&nbsp;M2351</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M251BSP" style="display:block;">&nbsp;M251/M252</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M261BSP" style="display:block;">&nbsp;M261</a></td>
-      <td style="width:25px">&nbsp;</td>
       <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
