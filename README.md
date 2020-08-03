@@ -29,6 +29,12 @@
       <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M0A21BSP" style="display:block;">&nbsp;M0A21</a></td>
+      <td style="width:25px">&nbsp;</td>
+      <td style="width:25px">&nbsp;</td>
+      <td style="width:25px">&nbsp;</td>
+  </tr>
+  <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC029xANBSP" style="display:block;">&nbsp;NUC029xAN</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC029FAE_BSP" style="display:block;">&nbsp;NUC029FAE</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC029xEE" style="display:block;">&nbsp;NUC029xEE</a></td>
