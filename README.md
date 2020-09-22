@@ -71,7 +71,6 @@
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M251BSP" style="display:block;">&nbsp;M251/M252</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M261BSP" style="display:block;">&nbsp;M261</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M2354BSP" style="display:block;">&nbsp;M2354</a></td>
-      <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
       <td align="center" colspan="4"><b> ISP Tool</b></td>
