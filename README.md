@@ -65,7 +65,7 @@
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M071Q_M071V_BSP" style="display:block;">&nbsp;M071Q/M071V</a></td>
   </tr>
   <tr>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M071R_M071S_BSP" style="display:block;">&nbsp;M071R1/M071S</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M071R_M071S_BSP" style="display:block;">&nbsp;M071R/M071S</a></td>
       <td style="width:25px">&nbsp;</td>
       <td style="width:25px">&nbsp;</td>
       <td style="width:25px">&nbsp;</td>
