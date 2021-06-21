@@ -55,7 +55,7 @@
   <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC126BSP" style="display:block;">&nbsp;NUC126</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC1261BSP" style="display:block;">&nbsp;NUC1261</a></td>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC1262BSP" style="display:block;">&nbsp;NUC1262</a></td>
+      <td style="width:25px">&nbsp;</td>
       <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
@@ -87,6 +87,9 @@
   </tr>
   <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M261BSP" style="display:block;">&nbsp;M261</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/NUC1262BSP" style="display:block;">&nbsp;NUC1262</a></td>    
+      <td style="width:25px">&nbsp;</td>
+      <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
       <td align="center" colspan="4"><b> ISP Tool</b></td>
