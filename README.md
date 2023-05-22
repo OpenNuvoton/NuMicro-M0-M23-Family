@@ -26,6 +26,7 @@
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M058S" style="display:block;">&nbsp;M058S</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M031BSP" style="display:block;">&nbsp;M031/M032/M031BT/M032BT</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M030GBSP" style="display:block;">&nbsp;M029G/M030G/M031G</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M091BSP" style="display:block;">&nbsp;M091</a></td>
       <td style="width:25px">&nbsp;</td>
   </tr>
   <tr>
