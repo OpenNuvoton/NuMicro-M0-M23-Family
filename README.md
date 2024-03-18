@@ -5,10 +5,10 @@
       <td align="center" colspan="4"><b> NuMicro M0 Family BSP / Sample Code</b></td>
   </tr>
   <tr>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini51BSP" style="display:block;">&nbsp;Mini51&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini55BSP" style="display:block;">&nbsp;Mini55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini57BSP" style="display:block;">&nbsp;Mini57&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini58BSP" style="display:block;">&nbsp;Mini58&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini51BSP" style="display:block;">&nbsp;Mini51</a></td> 
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini55BSP" style="display:block;">&nbsp;Mini55</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini57BSP" style="display:block;">&nbsp;Mini57</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/Mini58BSP" style="display:block;">&nbsp;Mini58</a></td> 
   </tr>
   <tr>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/Nano100A_BSP" style="display:block;">&nbsp;Nano100A</a></td>
