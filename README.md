@@ -96,6 +96,7 @@
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M2L31BSP" style="display:block;">&nbsp;M2L31</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/m2a23bsp" style="display:block;">&nbsp;M2A23</a></td>
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/CM2003bsp" style="display:block;">&nbsp;CM2003</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/M2U51BSP" style="display:block;">&nbsp;M2U51</a></td>
   </tr>  
   <tr>
       <td align="center" colspan="4"><b> ISP Tool</b></td>
