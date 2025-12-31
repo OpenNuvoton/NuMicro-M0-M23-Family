@@ -98,6 +98,12 @@
       <td style="width:25px"><a href="https://github.com/OpenNuvoton/M2U51BSP" style="display:block;">&nbsp;M2U51</a></td>
   </tr>  
   <tr>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/CM2052BSP" style="display:block;">&nbsp;CM2052</a></td>
+      <td style="width:25px"><a href="https://github.com/OpenNuvoton/CM2053BSP" style="display:block;">&nbsp;CM2053</a></td>
+      <td style="width:25px">&nbsp;</td>
+      <td style="width:25px">&nbsp;</td>
+  </tr>
+  <tr>
       <td align="center" colspan="4"><b> ISP Tool</b></td>
   </tr>
   <tr>
